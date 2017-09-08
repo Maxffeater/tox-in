@@ -20,5 +20,8 @@
     <p>
       Paragraphe 2
     </p>
+    <p>
+      Paragraphe 3
+    </p>
   </body>
 </html>
